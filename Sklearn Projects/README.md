@@ -40,7 +40,7 @@
         Recall
     </th>
     <th style="text-align: center;">
-        Algorithm***
+        Algorithm[^2]
     </th>
 </tr>
 
@@ -76,7 +76,7 @@
 <tr>
     <td style="text-align: center;">
         <a href="https://github.com/DunnBC22/Python_Projects_with_Structured_data/blob/main/Sklearn%20Projects/Classification/Binary%20Classification/Promote%20Employee%20or%20Not/Promote%20Employee%20Or%20Not%20Binary%20Classifier%20(Using%20Sklearn%20Interface%20of%20XGBoost).ipynb">
-            Promote Employee Or Not**
+            Promote Employee Or Not[^1]
         </a>
     </td>
     <td style="text-align: center;">
@@ -202,16 +202,16 @@
         No
     </td>
     <td style="text-align: center;">
-        0.87***
+        0.87[^2]
     </td>
     <td style="text-align: center;">
-        0.84***
+        0.84[^2]
     </td>
     <td style="text-align: center;">
-        0.85***
+        0.85[^2]
     </td>
     <td style="text-align: center;">
-        0.83***
+        0.83[^2]
     </td>
     <td style="text-align: center;">
         XGBoost
@@ -334,17 +334,10 @@
 </tr>
 </table>
 
-<p style="text-align: left">Notes:</p>
-<ul style="text-align: left">
-<li>* = F1, Precison, and Recall values are Macro-Averaged Values</li>
-<li>** = Uses Sklearn's Interface of XGBoost</li>
-<li>*** = Project was algorithm comparison. Name & metric values shown represent algorithm with best results</li>
-</caption>
-
 <br />
 
 <h2>
-    Overview of Regression Projects in This Directory
+    Regression Projects
 </h2>
 
 <table style="border: 3px solid black;">
@@ -365,13 +358,13 @@
         Root Mean Squared Error
     </th>
     <th style="text-align: center;">
-        Algorithm***
+        Algorithm[^2]
     </th>
 </tr>
 <tr>
     <td style="text-align: center;">
         <a href="https://github.com/DunnBC22/Python_Projects_with_Structured_data/blob/main/Sklearn%20Projects/Regression/Vehicle%20MSRP%20Predictor/Regression%20Using%20Sklearn's%20Interface%20of%20XGBoost.ipynb">
-            Vehicle MSRP Predictor**
+            Vehicle MSRP Predictor[^1]
         </a>
     </td>
     <td style="text-align: center;">
@@ -551,14 +544,9 @@
         Huber
     </td>
 </tr>
-
 </table>
-<p>
-    Notes:
-</p>
-<ul style="text-align: left">
-    <li>** = Uses Sklearn's Interface of XGBoost</li>
-    <li>*** = Project was algorithm comparison. Name & metric values shown represent algorithm with best results</li>
-</ul>
-
 </div>
+Footnotes: <br />
+[^1]: Uses Sklearn's Interface of XGBoost <br />
+[^2]: Project was algorithm comparison. Name & metric values shown represent algorithm with best results.
+
